@@ -1,0 +1,15 @@
+D:\PROJECTS\C#\HelloWorldCore6\bin\Debug\net6.0\HelloWorldCore6.exe
+D:\PROJECTS\C#\HelloWorldCore6\bin\Debug\net6.0\HelloWorldCore6.deps.json
+D:\PROJECTS\C#\HelloWorldCore6\bin\Debug\net6.0\HelloWorldCore6.runtimeconfig.json
+D:\PROJECTS\C#\HelloWorldCore6\bin\Debug\net6.0\HelloWorldCore6.dll
+D:\PROJECTS\C#\HelloWorldCore6\bin\Debug\net6.0\HelloWorldCore6.pdb
+D:\PROJECTS\C#\HelloWorldCore6\obj\Debug\net6.0\HelloWorldCore6.csproj.AssemblyReference.cache
+D:\PROJECTS\C#\HelloWorldCore6\obj\Debug\net6.0\HelloWorldCore6.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C#\HelloWorldCore6\obj\Debug\net6.0\HelloWorldCore6.AssemblyInfoInputs.cache
+D:\PROJECTS\C#\HelloWorldCore6\obj\Debug\net6.0\HelloWorldCore6.AssemblyInfo.cs
+D:\PROJECTS\C#\HelloWorldCore6\obj\Debug\net6.0\HelloWorldCore6.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C#\HelloWorldCore6\obj\Debug\net6.0\HelloWorldCore6.dll
+D:\PROJECTS\C#\HelloWorldCore6\obj\Debug\net6.0\refint\HelloWorldCore6.dll
+D:\PROJECTS\C#\HelloWorldCore6\obj\Debug\net6.0\HelloWorldCore6.pdb
+D:\PROJECTS\C#\HelloWorldCore6\obj\Debug\net6.0\HelloWorldCore6.genruntimeconfig.cache
+D:\PROJECTS\C#\HelloWorldCore6\obj\Debug\net6.0\ref\HelloWorldCore6.dll

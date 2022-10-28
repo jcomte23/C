@@ -1,0 +1,16 @@
+D:\PROJECTS\C#\HelloWorldGrafico\bin\Debug\HelloWorldGrafico.exe.config
+D:\PROJECTS\C#\HelloWorldGrafico\bin\Debug\HelloWorldGrafico.exe
+D:\PROJECTS\C#\HelloWorldGrafico\bin\Debug\HelloWorldGrafico.pdb
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.csproj.AssemblyReference.cache
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.csproj.SuggestedBindingRedirects.cache
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\MainWindow.g.cs
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\App.g.cs
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\HelloWorldGrafico_MarkupCompile.cache
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\HelloWorldGrafico_MarkupCompile.lref
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\MainWindow.baml
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.g.resources
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.Properties.Resources.resources
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.csproj.GenerateResource.cache
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.exe
+D:\PROJECTS\C#\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.pdb

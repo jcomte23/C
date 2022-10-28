@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWordCore3", "HelloWordCore3.csproj", "{3049D5A1-A571-4CD5-9963-EC192BC9E5CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3049D5A1-A571-4CD5-9963-EC192BC9E5CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3049D5A1-A571-4CD5-9963-EC192BC9E5CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3049D5A1-A571-4CD5-9963-EC192BC9E5CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3049D5A1-A571-4CD5-9963-EC192BC9E5CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29026D53-DC1F-4308-A054-D247B8483F71}
+	EndGlobalSection
+EndGlobal
