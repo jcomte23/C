@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jcombita/Documents/C/Variables/Variables.csproj": {}
+    "/Users/jcombita/Documents/C/SwitchCase/SwitchCase/SwitchCase.csproj": {}
   },
   "projects": {
-    "/Users/jcombita/Documents/C/Variables/Variables.csproj": {
+    "/Users/jcombita/Documents/C/SwitchCase/SwitchCase/SwitchCase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jcombita/Documents/C/Variables/Variables.csproj",
-        "projectName": "Variables",
-        "projectPath": "/Users/jcombita/Documents/C/Variables/Variables.csproj",
+        "projectUniqueName": "/Users/jcombita/Documents/C/SwitchCase/SwitchCase/SwitchCase.csproj",
+        "projectName": "SwitchCase",
+        "projectPath": "/Users/jcombita/Documents/C/SwitchCase/SwitchCase/SwitchCase.csproj",
         "packagesPath": "/Users/jcombita/.nuget/packages/",
-        "outputPath": "/Users/jcombita/Documents/C/Variables/obj/",
+        "outputPath": "/Users/jcombita/Documents/C/SwitchCase/SwitchCase/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jcombita/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -36,8 +36,8 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
