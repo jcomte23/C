@@ -1,0 +1,15 @@
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/bin/Debug/net6.0/MetodosStringPredefinidos
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/bin/Debug/net6.0/MetodosStringPredefinidos.deps.json
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/bin/Debug/net6.0/MetodosStringPredefinidos.runtimeconfig.json
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/bin/Debug/net6.0/MetodosStringPredefinidos.dll
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/bin/Debug/net6.0/MetodosStringPredefinidos.pdb
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/obj/Debug/net6.0/MetodosStringPredefinidos.csproj.AssemblyReference.cache
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/obj/Debug/net6.0/MetodosStringPredefinidos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/obj/Debug/net6.0/MetodosStringPredefinidos.AssemblyInfoInputs.cache
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/obj/Debug/net6.0/MetodosStringPredefinidos.AssemblyInfo.cs
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/obj/Debug/net6.0/MetodosStringPredefinidos.csproj.CoreCompileInputs.cache
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/obj/Debug/net6.0/MetodosStringPredefinidos.dll
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/obj/Debug/net6.0/refint/MetodosStringPredefinidos.dll
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/obj/Debug/net6.0/MetodosStringPredefinidos.pdb
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/obj/Debug/net6.0/MetodosStringPredefinidos.genruntimeconfig.cache
+/Users/jcombita/Documents/C/MetodosStringPredefinidos/obj/Debug/net6.0/ref/MetodosStringPredefinidos.dll

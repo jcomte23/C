@@ -1,20 +1,20 @@
-﻿<Properties StartupConfiguration="{C7F57C5C-592A-482D-87D3-F60E1BC268C2}|Default">
-  <MonoDevelop.Ide.ItemProperties.Listas PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{30E21C3C-0350-40D6-93AA-3E4F6ABCD8B5}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MetodosStringPredefinidos PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="23" Column="2" />
+      <File FileName="Program.cs" Line="21" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Listas" expanded="True">
-            <Node name="Listas" expanded="True" />
+          <Node name="MetodosStringPredefinidos" expanded="True">
+            <Node name="MetodosStringPredefinidos" expanded="True" />
           </Node>
         </State>
       </Pad>
