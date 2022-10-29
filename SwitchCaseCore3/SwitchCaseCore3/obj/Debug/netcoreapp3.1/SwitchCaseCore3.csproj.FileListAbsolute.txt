@@ -1,0 +1,14 @@
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/bin/Debug/netcoreapp3.1/SwitchCaseCore3
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/bin/Debug/netcoreapp3.1/SwitchCaseCore3.deps.json
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/bin/Debug/netcoreapp3.1/SwitchCaseCore3.runtimeconfig.json
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/bin/Debug/netcoreapp3.1/SwitchCaseCore3.runtimeconfig.dev.json
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/bin/Debug/netcoreapp3.1/SwitchCaseCore3.dll
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/bin/Debug/netcoreapp3.1/SwitchCaseCore3.pdb
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/obj/Debug/netcoreapp3.1/SwitchCaseCore3.csproj.AssemblyReference.cache
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/obj/Debug/netcoreapp3.1/SwitchCaseCore3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/obj/Debug/netcoreapp3.1/SwitchCaseCore3.AssemblyInfoInputs.cache
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/obj/Debug/netcoreapp3.1/SwitchCaseCore3.AssemblyInfo.cs
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/obj/Debug/netcoreapp3.1/SwitchCaseCore3.csproj.CoreCompileInputs.cache
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/obj/Debug/netcoreapp3.1/SwitchCaseCore3.dll
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/obj/Debug/netcoreapp3.1/SwitchCaseCore3.pdb
+/Users/jcombita/Projects/SwitchCaseCore3/SwitchCaseCore3/obj/Debug/netcoreapp3.1/SwitchCaseCore3.genruntimeconfig.cache
