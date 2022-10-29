@@ -1,0 +1,15 @@
+/Users/jcombita/Projects/Arrays/bin/Debug/net6.0/Arrays
+/Users/jcombita/Projects/Arrays/bin/Debug/net6.0/Arrays.deps.json
+/Users/jcombita/Projects/Arrays/bin/Debug/net6.0/Arrays.runtimeconfig.json
+/Users/jcombita/Projects/Arrays/bin/Debug/net6.0/Arrays.dll
+/Users/jcombita/Projects/Arrays/bin/Debug/net6.0/Arrays.pdb
+/Users/jcombita/Projects/Arrays/obj/Debug/net6.0/Arrays.csproj.AssemblyReference.cache
+/Users/jcombita/Projects/Arrays/obj/Debug/net6.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jcombita/Projects/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfoInputs.cache
+/Users/jcombita/Projects/Arrays/obj/Debug/net6.0/Arrays.AssemblyInfo.cs
+/Users/jcombita/Projects/Arrays/obj/Debug/net6.0/Arrays.csproj.CoreCompileInputs.cache
+/Users/jcombita/Projects/Arrays/obj/Debug/net6.0/Arrays.dll
+/Users/jcombita/Projects/Arrays/obj/Debug/net6.0/refint/Arrays.dll
+/Users/jcombita/Projects/Arrays/obj/Debug/net6.0/Arrays.pdb
+/Users/jcombita/Projects/Arrays/obj/Debug/net6.0/Arrays.genruntimeconfig.cache
+/Users/jcombita/Projects/Arrays/obj/Debug/net6.0/ref/Arrays.dll
