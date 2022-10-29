@@ -1,0 +1,14 @@
+/Users/jcombita/Documents/C/MyMethods/bin/Debug/netcoreapp3.1/MyMethods
+/Users/jcombita/Documents/C/MyMethods/bin/Debug/netcoreapp3.1/MyMethods.deps.json
+/Users/jcombita/Documents/C/MyMethods/bin/Debug/netcoreapp3.1/MyMethods.runtimeconfig.json
+/Users/jcombita/Documents/C/MyMethods/bin/Debug/netcoreapp3.1/MyMethods.runtimeconfig.dev.json
+/Users/jcombita/Documents/C/MyMethods/bin/Debug/netcoreapp3.1/MyMethods.dll
+/Users/jcombita/Documents/C/MyMethods/bin/Debug/netcoreapp3.1/MyMethods.pdb
+/Users/jcombita/Documents/C/MyMethods/obj/Debug/netcoreapp3.1/MyMethods.csproj.AssemblyReference.cache
+/Users/jcombita/Documents/C/MyMethods/obj/Debug/netcoreapp3.1/MyMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jcombita/Documents/C/MyMethods/obj/Debug/netcoreapp3.1/MyMethods.AssemblyInfoInputs.cache
+/Users/jcombita/Documents/C/MyMethods/obj/Debug/netcoreapp3.1/MyMethods.AssemblyInfo.cs
+/Users/jcombita/Documents/C/MyMethods/obj/Debug/netcoreapp3.1/MyMethods.csproj.CoreCompileInputs.cache
+/Users/jcombita/Documents/C/MyMethods/obj/Debug/netcoreapp3.1/MyMethods.dll
+/Users/jcombita/Documents/C/MyMethods/obj/Debug/netcoreapp3.1/MyMethods.pdb
+/Users/jcombita/Documents/C/MyMethods/obj/Debug/netcoreapp3.1/MyMethods.genruntimeconfig.cache
